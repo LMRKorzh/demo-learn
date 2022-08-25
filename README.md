@@ -1,2 +1,3 @@
 # demo-learn
-salo feature
+salo main 2.0
+
